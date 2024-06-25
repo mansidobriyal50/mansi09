@@ -1,0 +1,2 @@
+ <link rel="stylesheet" href="{{ url_for('static', filename='css/css.css') }}">
+ <p>&copy; 2024 My Blog. All rights reserved.</p>
